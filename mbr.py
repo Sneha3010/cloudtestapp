@@ -3,11 +3,15 @@ from flask_sqlalchemy import SQLAlchemy
 import json
 import logging
 
+from flask_heroku import Heroku
 app = Flask(__name__)
 
 # Connecting to database
-app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:sneha3010@localhost/cloudproject'
+# app.config['SQLALCHEMY_DATABASE_URI'] = 'postgresql://postgres:sneha3010@localhost/cloudproject'
+app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False
 db = SQLAlchemy(app)
+heroku = Heroku(app)
+
 
 class Mortgage_details(db.Model):
 	__tablename__ = 'mbr_mortgage_details'
@@ -44,4 +48,4 @@ def addInsurance():
 	return render_template('updatemessage4.html')
 
 if __name__ == '__main__':
-	app.run(debug=True, port=8001, host='24.224.230.51')
+	app.run(debug=False, port=8001, host='24.224.230.51')
