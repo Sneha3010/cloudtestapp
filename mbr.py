@@ -44,4 +44,4 @@ def addInsurance():
 	return render_template('updatemessage4.html')
 
 if __name__ == '__main__':
-	app.run(debug=True, port=8001)
+	app.run(debug=True, port=8001, host='24.224.230.51')
