@@ -1,0 +1,35 @@
+{% extends "layout.html"%}
+{% block body %}
+
+<div class="container-fluid">
+	<div width = 100 height = 100 align="right" margin=50 >
+		<!--
+		Source: removing hyperlinks underline
+		https://support.microsoft.com/en-ca/help/825543/how-to-remove-underlines-from-hyperlinks-that-use-frontpage-2003 
+
+		Source: Changing 
+		http://www.echoecho.com/htmllinks02.htm
+		-->
+		<h3>Welcome, {{username}}    &nbsp; &nbsp; <button class="btn btn-primary" type="submit" ><a style="text-decoration:none" href="{{ url_for('.logout') }}"><font color="white">Logout</font></a></button></h3>
+	</div>
+	<div class = "card col-md-4 offset-md-4 shadow-lg p-3 mb-5 bg-white rounded">
+	<h1> Employer Form </h1>
+	<form method = "POST" action="" onsubmit="return checkForm(this);">
+		<div class="form-group">
+			<label for="employeeid">User name</label>
+			<input type="text" name="username" class="form-control" value = "{{username}}" placeholder="username" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your user name' : '');" readonly />
+		</div>
+		<div class="form-group">
+			<label for="application_no">Mortgage Application number</label>
+			<input type = "text" name = "application_no" class="form-control" placeholder="application no" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your application id' : '');" />
+		</div>
+		<div class="form-group">
+			<label for="mbr_web_service">Broker web service address</label>
+			<input type="text" name="mbr_web_service" class="form-control" placeholder="mbr web service" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter the MBR web service address' : '');" />
+		</div>
+		<button class="btn btn-primary" type="submit" >Submit</button>
+	</form>
+
+</div>
+</div>
+{% endblock %}

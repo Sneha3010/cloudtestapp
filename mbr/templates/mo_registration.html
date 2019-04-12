@@ -1,0 +1,32 @@
+{% extends "layout.html"%}
+{% block body %}
+
+<div class="container-fluid">
+	<div class = "card col-md-4 offset-md-4 shadow-lg p-3 mb-5 bg-white rounded">
+	<h1> Mortage Request Form </h1>
+	<form method = "POST" action="" onsubmit="return checkForm(this);">
+		<div class="form-group">
+			<label for="name">Name</label>
+			<input type="text" name="name" class="form-control" placeholder="name" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your name' : '');" />
+		</div>
+		<div class="form-group">
+			<label for="mortgage value">Mortgage Value($)</label>
+			<input type="text" name="mortgage value" class="form-control" placeholder="mortgage value" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter mortgage value' : '');" />
+		</div>
+		<div class="form-group">
+			<tr> 
+				<td>Select your choice of house</td>
+			</tr>
+			<tr>
+				<td><img src="C:\Users\sunit\Desktop\DAL\CC\cloud_proj\main project_code\mbr\image-1.jpg"></td>
+			</tr>
+			<tr>
+				<td><img src="C:\Users\sunit\Desktop\DAL\CC\cloud_proj\main project_code\mbr\image-2.jpg"></td>
+			</tr>
+			<tr>
+				<td><img src="C:\Users\sunit\Desktop\DAL\CC\cloud_proj\main project_code\mbr\image-3.jpg"></td>
+			</tr>
+			<tr>
+				<td><img src="C:\Users\sunit\Desktop\DAL\CC\cloud_proj\main project_code\mbr\image-4.jpg"></td>
+			</tr>
+		</div>

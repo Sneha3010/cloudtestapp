@@ -1,0 +1,32 @@
+{% extends "layout.html"%}
+{% block body %}
+
+
+<div class="container-fluid">
+	<div class = "card col-md-4 offset-md-4 shadow-lg p-3 mb-5 bg-white rounded" style="margin-top: 50px" >
+	<h1> Login </h1>
+	{% if error %}
+         <p><strong>Error:</strong> {{ error }}
+      {% endif %}
+
+
+	<form action="" method="POST" >
+		<div class="form-group">
+			<label for="emp_id">User name</label>
+			<input type="text" name="username" class="form-control" value = "{{username}}" placeholder="User name" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your user name' : '');" />
+		</div>
+		<div class="form-group">
+			<label for="application_no">Password</label>
+			<input type = "password" name = "password" class="form-control" placeholder="password" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your password' : '');" />
+		</div>
+		<!-- <div class="form-group">
+			<input type="text" name="emp_id" class="form-control" placeholder="emp_id" required>
+		</div>
+		<div class="form-group">
+			<input type="password" name="password" class="form-control" placeholder="password" required>
+		</div> -->
+		<button class="btn btn-primary" type="submit">Submit</button>
+	</form>
+</div>
+</div>
+{% endblock %}

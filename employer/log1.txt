@@ -1,0 +1,78 @@
+method: GET 
+End-point: http://127.0.0.1:8001/logout 
+parameters: logged out
+method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: GET 
+End-point: http://127.0.0.1:8001//employer_form/<string:username> 
+parameters: None
+method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None
+method: POST 
+End-point: http://127.0.0.1:8001/login 
+parameters: username: bob, password:  method: GET 
+End-point: http://127.0.0.1:8001/login 
+parameters: None

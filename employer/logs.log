@@ -1,0 +1,147 @@
+DEBUG 2019-04-09 00:18:57,537 - This message should go to the log file
+INFO 2019-04-09 00:18:57,551 - 127.0.0.1 - - [09/Apr/2019 00:18:57] "[1m[35mGET /employer_form/jivi HTTP/1.1[0m" 500 -
+INFO 2019-04-09 00:18:57,584 - 127.0.0.1 - - [09/Apr/2019 00:18:57] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:18:57,590 - 127.0.0.1 - - [09/Apr/2019 00:18:57] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:18:57,591 - 127.0.0.1 - - [09/Apr/2019 00:18:57] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:18:57,965 - 127.0.0.1 - - [09/Apr/2019 00:18:57] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:18:57,975 - 127.0.0.1 - - [09/Apr/2019 00:18:57] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:19:30,875 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 00:19:32,638 - This message should go to the log file
+INFO 2019-04-09 00:19:32,665 - 127.0.0.1 - - [09/Apr/2019 00:19:32] "[1m[35mGET /employer_form/jivi HTTP/1.1[0m" 500 -
+INFO 2019-04-09 00:19:32,773 - 127.0.0.1 - - [09/Apr/2019 00:19:32] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:19:32,774 - 127.0.0.1 - - [09/Apr/2019 00:19:32] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:19:32,882 - 127.0.0.1 - - [09/Apr/2019 00:19:32] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:19:33,104 - 127.0.0.1 - - [09/Apr/2019 00:19:33] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:19:33,149 - 127.0.0.1 - - [09/Apr/2019 00:19:33] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:19:33,790 - 127.0.0.1 - - [09/Apr/2019 00:19:33] "[37mGET /employer_form/jivi?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:19:37,000 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 00:20:01,334 - This message should go to the log file
+INFO 2019-04-09 00:20:01,334 - jivi
+INFO 2019-04-09 00:20:01,343 - 127.0.0.1 - - [09/Apr/2019 00:20:01] "[37mGET /employer_form/jivi HTTP/1.1[0m" 200 -
+INFO 2019-04-09 00:27:43,579 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 14:11:51,454 - This message should go to the log file
+INFO 2019-04-09 14:11:51,455 - jivi
+INFO 2019-04-09 14:11:51,478 - 127.0.0.1 - - [09/Apr/2019 14:11:51] "[37mGET /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:14:37,784 - This message should go to the log file
+INFO 2019-04-09 14:14:37,785 - jivi
+INFO 2019-04-09 14:14:37,788 - 127.0.0.1 - - [09/Apr/2019 14:14:37] "[37mGET /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:18:22,554 - This message should go to the log file
+INFO 2019-04-09 14:18:22,554 - jivi
+INFO 2019-04-09 14:18:22,557 - 127.0.0.1 - - [09/Apr/2019 14:18:22] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:18:55,710 - This message should go to the log file
+INFO 2019-04-09 14:18:55,711 - jivi
+INFO 2019-04-09 14:18:55,712 - 127.0.0.1 - - [09/Apr/2019 14:18:55] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:19:17,256 - This message should go to the log file
+INFO 2019-04-09 14:19:17,256 - jivi
+INFO 2019-04-09 14:19:17,259 - 127.0.0.1 - - [09/Apr/2019 14:19:17] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:21:16,397 - This message should go to the log file
+INFO 2019-04-09 14:21:16,398 - jivi
+INFO 2019-04-09 14:21:16,399 - 127.0.0.1 - - [09/Apr/2019 14:21:16] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:25:02,896 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 14:26:01,008 - This message should go to the log file
+INFO 2019-04-09 14:26:01,008 - jivi
+INFO 2019-04-09 14:26:01,039 - 127.0.0.1 - - [09/Apr/2019 14:26:01] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:27:00,152 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 14:27:18,869 - This message should go to the log file
+INFO 2019-04-09 14:27:18,869 - jivi
+INFO 2019-04-09 14:27:18,884 - 127.0.0.1 - - [09/Apr/2019 14:27:18] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:27:40,222 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 14:28:17,986 - This message should go to the log file
+INFO 2019-04-09 14:28:17,986 - jivi
+INFO 2019-04-09 14:28:18,016 - 127.0.0.1 - - [09/Apr/2019 14:28:18] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:29:34,682 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 14:29:48,341 - This message should go to the log file
+INFO 2019-04-09 14:29:48,342 - jivi
+DEBUG 2019-04-09 14:29:48,548 - Starting new HTTP connection (1): 127.0.0.1:8001
+INFO 2019-04-09 14:29:48,567 - 127.0.0.1 - - [09/Apr/2019 14:29:48] "[33mGET /application_status?salary=80000&application_number=MBR1&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1[0m" 404 -
+DEBUG 2019-04-09 14:29:48,568 - http://127.0.0.1:8001 "GET /application_status?salary=80000&application_number=MBR1&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1" 404 233
+INFO 2019-04-09 14:29:48,580 - 127.0.0.1 - - [09/Apr/2019 14:29:48] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:30:05,007 - This message should go to the log file
+INFO 2019-04-09 14:30:05,007 - jivi
+DEBUG 2019-04-09 14:30:05,020 - Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG 2019-04-09 14:30:05,222 - http://127.0.0.1:8000 "GET /application_status?salary=80000&application_number=MBR1&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1" 500 None
+INFO 2019-04-09 14:30:05,226 - 127.0.0.1 - - [09/Apr/2019 14:30:05] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:31:39,684 - This message should go to the log file
+INFO 2019-04-09 14:31:39,684 - jivi
+DEBUG 2019-04-09 14:31:39,730 - Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG 2019-04-09 14:31:39,813 - http://127.0.0.1:8000 "GET /application_status?salary=80000&application_number=63&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1" 200 7
+INFO 2019-04-09 14:31:39,832 - 127.0.0.1 - - [09/Apr/2019 14:31:39] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:34:05,528 - This message should go to the log file
+INFO 2019-04-09 14:34:05,529 - jivi
+DEBUG 2019-04-09 14:34:05,544 - Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG 2019-04-09 14:34:05,645 - http://127.0.0.1:8000 "GET /application_status?salary=80000&application_number=63&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1" 200 7
+INFO 2019-04-09 14:34:05,654 - 127.0.0.1 - - [09/Apr/2019 14:34:05] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+DEBUG 2019-04-09 14:34:42,299 - This message should go to the log file
+INFO 2019-04-09 14:34:42,299 - jivi
+DEBUG 2019-04-09 14:34:42,316 - Starting new HTTP connection (1): 127.0.0.1:8000
+DEBUG 2019-04-09 14:34:42,334 - http://127.0.0.1:8000 "GET /application_status?salary=80000&application_number=63&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1" 200 7
+INFO 2019-04-09 14:34:42,344 - 127.0.0.1 - - [09/Apr/2019 14:34:42] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:37:47,623 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 14:37:58,528 - This message should go to the log file
+INFO 2019-04-09 14:37:58,529 - jivi
+DEBUG 2019-04-09 14:37:58,672 - Starting new HTTP connection (1): 127.0.0.1:8001
+INFO 2019-04-09 14:37:58,679 - 127.0.0.1 - - [09/Apr/2019 14:37:58] "[33mGET /application_status?salary=80000&application_number=MBR1&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1[0m" 404 -
+DEBUG 2019-04-09 14:37:58,680 - http://127.0.0.1:8001 "GET /application_status?salary=80000&application_number=MBR1&emp_name=Jivitesh%20Gudekar&emp_start_date=2019-09-01%2000:00:00 HTTP/1.1" 404 233
+INFO 2019-04-09 14:37:58,686 - 127.0.0.1 - - [09/Apr/2019 14:37:58] "[37mPOST /employer_form/jivi HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:38:04,769 - 127.0.0.1 - - [09/Apr/2019 14:38:04] "[32mGET /logout HTTP/1.1[0m" 302 -
+INFO 2019-04-09 14:38:04,795 - 127.0.0.1 - - [09/Apr/2019 14:38:04] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:38:09,564 - 127.0.0.1 - - [09/Apr/2019 14:38:09] "[32mPOST /login HTTP/1.1[0m" 302 -
+DEBUG 2019-04-09 14:38:09,573 - This message should go to the log file
+INFO 2019-04-09 14:38:09,573 - jivi
+INFO 2019-04-09 14:38:09,577 - 127.0.0.1 - - [09/Apr/2019 14:38:09] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 14:38:09,584 - 127.0.0.1 - - [09/Apr/2019 14:38:09] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:38:15,242 - 127.0.0.1 - - [09/Apr/2019 14:38:15] "[32mPOST /login HTTP/1.1[0m" 302 -
+DEBUG 2019-04-09 14:38:15,247 - This message should go to the log file
+INFO 2019-04-09 14:38:15,247 - jivi
+INFO 2019-04-09 14:38:15,251 - 127.0.0.1 - - [09/Apr/2019 14:38:15] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 14:38:15,256 - 127.0.0.1 - - [09/Apr/2019 14:38:15] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:49:25,400 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 14:53:18,759 - This message should go to the log file
+INFO 2019-04-09 14:53:18,759 - jivi
+INFO 2019-04-09 14:53:18,764 - 127.0.0.1 - - [09/Apr/2019 14:53:18] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 14:53:18,787 - 127.0.0.1 - - [09/Apr/2019 14:53:18] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:53:56,014 - 127.0.0.1 - - [09/Apr/2019 14:53:56] "[1m[35mPOST /login HTTP/1.1[0m" 500 -
+INFO 2019-04-09 14:53:56,047 - 127.0.0.1 - - [09/Apr/2019 14:53:56] "[37mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:53:56,054 - 127.0.0.1 - - [09/Apr/2019 14:53:56] "[37mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:53:56,107 - 127.0.0.1 - - [09/Apr/2019 14:53:56] "[37mGET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:53:56,401 - 127.0.0.1 - - [09/Apr/2019 14:53:56] "[37mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:53:56,440 - 127.0.0.1 - - [09/Apr/2019 14:53:56] "[37mGET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:53:57,043 - 127.0.0.1 - - [09/Apr/2019 14:53:57] "[37mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:54:03,887 - 127.0.0.1 - - [09/Apr/2019 14:54:03] "[1m[35mPOST /login HTTP/1.1[0m" 500 -
+INFO 2019-04-09 14:54:03,933 - 127.0.0.1 - - [09/Apr/2019 14:54:03] "[37mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:54:03,937 - 127.0.0.1 - - [09/Apr/2019 14:54:03] "[37mGET /login?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:54:03,939 - 127.0.0.1 - - [09/Apr/2019 14:54:03] "[37mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:54:04,151 - 127.0.0.1 - - [09/Apr/2019 14:54:04] "[37mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:54:04,159 - 127.0.0.1 - - [09/Apr/2019 14:54:04] "[37mGET /login?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:54:04,376 - 127.0.0.1 - - [09/Apr/2019 14:54:04] "[37mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+INFO 2019-04-09 14:54:57,746 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 15:04:47,520 - This message should go to the log file
+INFO 2019-04-09 15:04:47,521 - jivi
+INFO 2019-04-09 15:04:47,526 - 127.0.0.1 - - [09/Apr/2019 15:04:47] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 15:04:47,534 - 127.0.0.1 - - [09/Apr/2019 15:04:47] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 15:04:52,705 - 127.0.0.1 - - [09/Apr/2019 15:04:52] "[32mPOST /login HTTP/1.1[0m" 302 -
+DEBUG 2019-04-09 15:04:52,711 - This message should go to the log file
+INFO 2019-04-09 15:04:52,712 - jivi
+INFO 2019-04-09 15:04:52,713 - 127.0.0.1 - - [09/Apr/2019 15:04:52] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 15:04:52,719 - 127.0.0.1 - - [09/Apr/2019 15:04:52] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 15:05:18,016 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 15:05:25,354 - This message should go to the log file
+INFO 2019-04-09 15:05:25,354 - jivi
+INFO 2019-04-09 15:05:25,355 - 127.0.0.1 - - [09/Apr/2019 15:05:25] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 15:05:25,361 - 127.0.0.1 - - [09/Apr/2019 15:05:25] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 15:05:48,424 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 15:05:54,706 - This message should go to the log file
+INFO 2019-04-09 15:05:54,706 - jivi
+INFO 2019-04-09 15:05:54,707 - 127.0.0.1 - - [09/Apr/2019 15:05:54] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 15:05:54,715 - 127.0.0.1 - - [09/Apr/2019 15:05:54] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 15:06:46,845 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading
+DEBUG 2019-04-09 15:06:53,433 - This message should go to the log file
+INFO 2019-04-09 15:06:53,433 - jivi
+INFO 2019-04-09 15:06:53,434 - 127.0.0.1 - - [09/Apr/2019 15:06:53] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 15:06:53,446 - 127.0.0.1 - - [09/Apr/2019 15:06:53] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 15:09:21,763 - 127.0.0.1 - - [09/Apr/2019 15:09:21] "[32mPOST /login HTTP/1.1[0m" 302 -
+DEBUG 2019-04-09 15:09:21,776 - This message should go to the log file
+INFO 2019-04-09 15:09:21,776 - jivi
+INFO 2019-04-09 15:09:21,787 - 127.0.0.1 - - [09/Apr/2019 15:09:21] "[32mGET /employer_form/jivi HTTP/1.1[0m" 302 -
+INFO 2019-04-09 15:09:21,807 - 127.0.0.1 - - [09/Apr/2019 15:09:21] "[37mGET /login HTTP/1.1[0m" 200 -
+INFO 2019-04-09 15:09:56,147 -  * Detected change in 'D:\\Dalhousie\\Winter\\CloudComputing\\Project\\project_code\\employer\\employer_portal.py', reloading

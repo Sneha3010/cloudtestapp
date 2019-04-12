@@ -1,0 +1,36 @@
+{% extends "layout.html"%}
+{% block body %}
+
+<div class="container-fluid">
+	<div class = "card col-md-4 offset-md-4 shadow-lg p-3 mb-5 bg-white rounded">
+	<h1> Employer Form </h1>
+	<form method = "POST" action="" onsubmit="return checkForm(this);">
+		<div class="form-group">
+			<label for="Name">Name </label>
+			
+			<input type="text" name="Name" class="form-control" value = "{{Name}}" placeholder="Name" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your employee id' : '');" />
+		</div>
+		<div class="form-group">
+			<label for="MortID">MortID</label>
+			<input type = "text" name = "MortID" class="form-control" value = "{{MortID}}" placeholder="MortID" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your application id' : '');" />
+		</div>
+		<div class="form-group">
+			<label for="Value">Value</label>
+			<input type="text" name="Value" class="form-control" value = "{{Value}}" placeholder="Value" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter the MBR web service address' : '');" />
+		</div>
+		<div class="form-group">
+			<label for="M1sID">M1sID</label>
+			<input type="text" name="M1sID" class="form-control" value = "{{M1sID}}" placeholder="M1sID" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter the MBR web service address' : '');" />
+		</div>
+
+
+		<button class="btn btn-primary" type="submit">Submit</button>
+	</form>
+	<!-- <script type="text/javascript">
+      document.getElementById("consent").setCustomValidity("Please indicate that you accept the Consent");
+      document.getElementById("mbr_service").setCustomValidity("Please enter mbr service id");
+      document.getElementById("application_id").setCustomValidity("Please enter mortgage application id");
+   </script> -->
+</div>
+</div>
+{% endblock %}

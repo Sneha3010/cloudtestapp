@@ -1,0 +1,38 @@
+{% extends "layout.html"%}
+{% block body %}
+
+
+
+<div class="container-fluid">
+	<div class = "card col-md-4 offset-md-4 shadow-lg p-3 mb-5 bg-white rounded">
+	<form action="" method="POST">
+		<form action="" method="POST">
+		<div class="form-group">
+	<div class="col-md-13 text-center"> 
+	<h3> {{ M1sID }} - Property </h3> </div>
+
+	
+
+	<div class="form-group">
+			<label for="name">Name </label>
+			<input type = "text" name = "Name" class="form-control" placeholder="Name" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your name' : '');" />
+		</div>
+
+    <div class="form-group">
+			<label for="mortid">Mort ID</label>
+			<input type = "text" name = "MortID" class="form-control" placeholder="MortID" required="required" onchange="this.setCustomValidity(validity.valueMissing ? 'Please enter your mortid' : '');" />
+		</div>
+    <div class="form-group">
+			<label for="Value">Value </label>
+			<input type="text" name="Value" class="form-control" value = "{{Value}}" placeholder="Value" readonly />
+		</div>
+    
+
+     <div class="col-md-13 text-center"> 
+    <button id="singlebutton" name="singlebutton" class="btn btn-primary">Submit</button> 
+
+    
+</div>
+</div>
+</div>
+{% endblock %}
